@@ -22,15 +22,15 @@ const Footer: React.FC = () => {
                 </S.MainText>
             </S.FooterInfoContainer>
             <S.FooterInfoContainer>
-                <S.MainText>© {year} Harsh Singh</S.MainText>
-                <S.FooterLink href="https://github.com/harshhhdev" target="_blank">
+                <S.MainText>© {year} Yujin</S.MainText>
+                <S.FooterLink href="https://github.com/euphorxa" target="_blank">
                     <Icons.GitHub />
                 </S.FooterLink>
-                <S.FooterLink href="https://twitter.com/harshhhdev" target="_blank">
+                <S.FooterLink href="https://twitter.com/ulypse" target="_blank">
                     <Icons.Twitter />
                 </S.FooterLink>
-                <S.FooterLink href="https://dribbble.com/harshhhdev" target="_blank">
-                    <Icons.Dribbble />
+                <S.FooterLink href="https://inv.wtf/endeavor" target="_blank">
+                    <Icons.Discord />
                 </S.FooterLink>
             </S.FooterInfoContainer>
         </S.FooterBox>
