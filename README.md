@@ -1,2 +1,0 @@
-# yujin.cha
-Personal website
