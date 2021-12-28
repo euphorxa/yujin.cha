@@ -8,11 +8,7 @@ import HomeComponent from '@components/Home/Home'
 import AboutComponent from '@components/About/About'
 import WorkComponent from '@components/Work/Work'
 import ProjectsComponent from '@components/Projects/Projects'
-import DesignsComponent from '@components/Designing/Designs'
-import ContactComponent from '@components/Contact/Contact'
 import Footer from '@components/Footer/Footer'
-
-import Crisp from '@components/CrispWidget'
 
 import globalStyle from '@css/global.style'
 import 'animate.css/animate.min.css'
@@ -29,15 +25,12 @@ const Home: React.FC = () => {
                 title='Home'
                 description="👋 I'm Yujin, a 15yo developer."
             />
-            <Crisp />
             <Cursor />
             <SmoothScroll />
             <HomeComponent />
             <AboutComponent />
             <WorkComponent />
             <ProjectsComponent />
-            <DesignsComponent />
-            <ContactComponent />
             <Footer />
         </ContentWrapper>
     )
