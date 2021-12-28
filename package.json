@@ -10,7 +10,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@stitches/react": "^0.1.9",
+    "@stitches/react": "^1.2.6",
     "animate.css": "^4.1.1",
     "copy-lite": "^0.1.2",
     "gray-matter": "^4.0.3",
