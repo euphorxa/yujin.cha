@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@types/node": "^17.0.5",
-    "@types/prismjs": "^1.16.5",
+    "@types/prismjs": "^1.26.0",
     "@types/react": "^17.0.3",
     "@types/react-animate-on-scroll": "^2.1.2",
     "@types/react-helmet": "^6.1.1",
