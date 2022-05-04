@@ -1,27 +1,7 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
-    "paths": {
-      "@components/*": [
-        "components/*"
-      ],
-      "@hooks/*": [
-        "hooks/*"
-      ],
-      "@pub/*": [
-        "public/*"
-      ],
-      "@css/*": [
-        "styles/*"
-      ],
-      "@lib/*": [
-        "lib/*"
-      ],
-      "@pages/*": [
-        "pages/*"
-      ]
-    },
-    "target": "es5",
+    "target": "ESNext",
     "lib": [
       "dom",
       "dom.iterable",
@@ -42,7 +22,9 @@
     "incremental": true
   },
   "include": [
-    "next-env.d.ts",
+    "auto-imports.d.ts",
+    "components.d.ts",
+    "vite.config.ts",
     "**/*.ts",
     "**/*.tsx"
   ],

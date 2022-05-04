@@ -5,3 +5,21 @@
     </p>
   </footer>
 </template>
+
+<script lang="ts">
+  export default {
+    name: "NavBar",
+    props: {
+      items: {
+        required: true,
+        type: Array,
+      }
+    }
+  }
+
+</script>
+
+<style scoped>
+button {
+
+}
