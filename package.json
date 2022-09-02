@@ -21,7 +21,7 @@
     "vue-chemistry": "^0.2.2",
     "vue-router": "^4.0.14",
     "vercel": "^24.2.0",
-    "@vercel/nft": "^0.18.2",
+    "@vercel/nft": "^0.22.1",
     "consola": "^2.15.3",
     "nuxt": "^2.15.8"
   },
