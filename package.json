@@ -16,7 +16,7 @@
     "vite": "^2.9.8",
     "vitest": "^0.12.7",
     "vite-plugin-ts-types": "^1.0.0",
-    "eslint": "^8.15.0",
+    "eslint": "^8.25.0",
     "prettier": "^2.6.2",
     "vue-chemistry": "^0.2.2",
     "vue-router": "^4.0.14",
