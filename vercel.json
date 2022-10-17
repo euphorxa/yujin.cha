@@ -1,7 +1,5 @@
 {
-  "builds": [
-    {
-      "src": "nuxt.config.ts"
-    }
-  ]
+  "github": {
+    "silent": true
+  }
 }
