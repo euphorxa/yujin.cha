@@ -1,5 +1,0 @@
-<template>
-  <index>
-
-  </index>
-</template>
